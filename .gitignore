@@ -332,3 +332,8 @@ ASALocalRun/
 
 # Local History for Visual Studio
 .localhistory/
+
+#Crestron
+*.projectinfo
+ControlSystem.cfg
+
